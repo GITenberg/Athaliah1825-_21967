@@ -1,0 +1,37 @@
+_repo: Athaliah1825-_21967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Racine, Jean
+    alias: Racine, Jean Baptiste
+    birthdate: 1639
+    deathdate: 1699
+    gutenberg_agent_id: '767'
+    url: http://www.gutenberg.org/2009/agents/767
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
+  - agent_name: Donkersley, J.
+    gutenberg_agent_id: '24999'
+    url: http://www.gutenberg.org/2009/agents/24999
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Athaliah, Queen of Judah -- Drama'
+title: 'Athaliah
+
+  A Tragedy, Intended For Reading Only, Translated Into
+
+  English Blank Verse, From Racine (A. Gombert''s Edition,
+
+  1825)'
+url: http://www.gutenberg.org/ebooks/21967
